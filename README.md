@@ -27,4 +27,4 @@
 
 [![GitHub Web Page](https://img.shields.io/badge/GitHub_page-000000?style=for-the-badge&logo=github&logoColor=fff)](https://github.com/julianacamilo)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=Linkedin&logoColor=2b68ed)](https://www.linkedin.com/in/juliana-barros-398107236/)
- <a href = "julianacamilodebarros@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
